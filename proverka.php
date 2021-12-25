@@ -71,3 +71,4 @@ echo '<hr>';
 echo $tips = $bill * 0.16;
 echo '<hr>';
 echo $nds = ($bill + $tips) * 1.075;
+
